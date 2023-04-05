@@ -1,0 +1,1 @@
+# kintone-record-update-test
